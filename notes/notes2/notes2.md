@@ -26,6 +26,7 @@
  * Free software- software is distributed with source code
 
 ## What is Free Software? Define the 4 freedoms.
-    
+ Free Software refers to software that grants users the four freedoms: to run, study, modify, and share the program, allowing full control over its use and distribution.
  
  ## What is virtualization?
+creating virtual versions of something
